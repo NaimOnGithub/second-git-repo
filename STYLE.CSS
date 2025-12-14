@@ -1,0 +1,17 @@
+.div{
+    border: 10px solid pink;
+border-radius: 20px;
+padding: 20px;
+color: aqua;
+/* background-image: url(photos/naim.jpg); */
+/* background-size: cover; */
+background-color: blueviolet;
+}
+#blog{
+    color: pink;
+    background-color: black;
+    border: 10px solid pink;
+    border-radius: 30px;
+    padding: 10px;
+    margin: 40px;
+}
